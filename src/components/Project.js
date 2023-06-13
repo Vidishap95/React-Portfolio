@@ -23,4 +23,4 @@ function Project (props) {
 }
 
 //export project
-export default Project
+export default Project;
