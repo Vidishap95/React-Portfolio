@@ -1,0 +1,52 @@
+/* Styling for the heading */
+.about-heading {
+    text-align: center;
+    margin-top: 0.4rem;
+    margin-bottom: 3 rem;
+    font-size: 50px;
+}
+
+/* Styling image*/
+.about-image {
+    max-width: 100%;
+    width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+/* font styling for text */
+.card-text {
+    font-family: "Arial", sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+/* font styling header*/
+.card-title {
+    font-family: "Arial",sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+}
+
+/*styling for the about section container */
+#about {
+    margin-bottom: 12rem;
+}
+
+/*table view */
+@media (min-width: 768px) {
+    .about-image {
+        width: 250px;
+        margin-bottom: 0;
+    }
+}
+
+/* desktop view */
+@media (min-width: 992px) {
+    .about-image {
+        width: 300px;
+    }
+}
