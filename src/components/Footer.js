@@ -25,7 +25,7 @@ const Footer = () => {
         <footer className="footer bg-dark text-white">
             <div className="footer-container">
                 <section className="socail-icons-wrapper d-flex flex-md-row justify-content-center">
-                    {socials.map(({ name, url, icon, color }) => (
+                    {social.map(({ name, url, icon, color }) => (
                         <div 
                         key={name}
                         className="d-flex-column align-items-center mx-md-2 transparent-bg">

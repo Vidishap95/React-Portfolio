@@ -1,6 +1,6 @@
 import React from "react";
-import { Container, Row, Col, Card, Image } from "react-bootstrap";
-import avatar from "";
+import { Container, Row, Col, Card } from "react-bootstrap";
+//import avatar from "../../Assets/background.jpeg";
 import "../style/About.css";
 
 function About() {
@@ -14,7 +14,7 @@ function About() {
                     xs={12}
                     md={4}
                     className="d-flex justify-content-center align-items-cente mb-md-0">
-                        <Image src={avatar} rounded fluid className="about-image" />
+                       {/* <Image src={avatar} rounded fluid className="about-image" />*/}
                     </Col>
                     <Col xs={12} md={8}>
                         <Card>

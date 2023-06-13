@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Vidishap95/React-Portfolio/static/css/main.4da62354.css",
+    "main.js": "/Vidishap95/React-Portfolio/static/js/main.9622d14f.js",
+    "index.html": "/Vidishap95/React-Portfolio/index.html",
+    "static/media/VidishaPatelResume.pdf": "/Vidishap95/React-Portfolio/static/media/VidishaPatelResume.31d6cfe0d16ae931b73c.pdf",
+    "main.4da62354.css.map": "/Vidishap95/React-Portfolio/static/css/main.4da62354.css.map",
+    "main.9622d14f.js.map": "/Vidishap95/React-Portfolio/static/js/main.9622d14f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4da62354.css",
+    "static/js/main.9622d14f.js"
+  ]
+}
