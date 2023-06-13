@@ -1,7 +1,7 @@
 {
   "name": "react-portfolio",
   "version": "1.0.0",
-  "description": "React portfolio",
+  "description": "Portfolio",
   "main": "index.js",
   "scripts": {
     "predeploy": "npm run build",
